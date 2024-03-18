@@ -18,7 +18,7 @@ install
     - // "outDir": "./dist"
     + "outDir": "./dist"
 
-+ "include": ["./src/**/*.ts"]
+    + "include": ["./src/**/*.ts"]
 
 ### 実行コマンド
 
